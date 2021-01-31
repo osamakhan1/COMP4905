@@ -1,0 +1,3 @@
+include ':automotive'
+include ':mobile'
+rootProject.name = "Trivia Game App"
