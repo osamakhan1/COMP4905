@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actions>
+    <action intentName="custom.actions.intent.READ" queryPatterns="@array/read">
+        <fulfillment urlTemplate="http://comp4905triviaapp.com/read"></fulfillment>
+    </action>
+</actions>
