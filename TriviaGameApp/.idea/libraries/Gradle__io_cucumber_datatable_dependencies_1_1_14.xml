@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.cucumber:datatable-dependencies:1.1.14">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/datatable-dependencies/1.1.14/fc2df1232d73f6dfe9fb61fce474fbcca8c8872/datatable-dependencies-1.1.14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/datatable-dependencies/1.1.14/108a0afb84e7c9b84ce4b45bd29f6956b14b9eee/datatable-dependencies-1.1.14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/datatable-dependencies/1.1.14/a024a05aa835d427d8a058c4f2e15c0c1117a24b/datatable-dependencies-1.1.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TriviaGameApp.iml" filepath="$PROJECT_DIR$/.idea/modules/TriviaGameApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Trivia_Game_App.iml" filepath="$PROJECT_DIR$/.idea/modules/Trivia_Game_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automotive/Trivia_Game_App.automotive.iml" filepath="$PROJECT_DIR$/.idea/modules/automotive/Trivia_Game_App.automotive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/Trivia_Game_App.mobile.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/Trivia_Game_App.mobile.iml" />
     </modules>
   </component>
 </project>

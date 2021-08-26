@@ -1,3 +1,35 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string-array name="questions">
+        <item>the answer is $text1</item>
+    </string-array>
+    <string-array name="category">
+        <item>Select $text1</item>
+    </string-array>
+    <string-array name="difficulty">
+        <item>Select $text1</item>
+    </string-array>
+    <string-array name="read">
+        <item>Read the questions</item>
+        <item>Read questions</item>
+    </string-array>
+    <string name="title_activity_waiting_room">WaitingRoom</string>
+    <string name="title_activity_mode_select">Mode Select</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="winner">You Won</string>
+    <string name="loser">You Lost</string>
+    <string name="back_home">Back to Home Page</string>
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
 </resources>

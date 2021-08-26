@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string-array name="questions">
+        <item>the answer is $text1</item>
+    </string-array>
+    <string-array name="category">
+        <item>Select $text1</item>
+    </string-array>
+    <string-array name="difficulty">
+        <item>Select $text1</item>
+    </string-array>
 </resources>

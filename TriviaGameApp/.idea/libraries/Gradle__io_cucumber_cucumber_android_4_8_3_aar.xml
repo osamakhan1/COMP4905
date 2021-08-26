@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.cucumber:cucumber-android:4.8.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/897642ba7a1b5ca4959cb6f72c4b45de/jetified-cucumber-android-4.8.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/897642ba7a1b5ca4959cb6f72c4b45de/jetified-cucumber-android-4.8.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/897642ba7a1b5ca4959cb6f72c4b45de/jetified-cucumber-android-4.8.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-android/4.8.3/c6a7fce4a69168a0934ae2ba473691df230362f9/cucumber-android-4.8.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-android/4.8.3/4ba14fb42be8f1c768f65bc3ed4069effa9a377c/cucumber-android-4.8.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
